@@ -198,6 +198,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | xn--18-6kca8bglk2avv xn--p1ai      |      1      |        5       |   3   |       |
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
+| minecrafteo com                    |             |                |       |       |
+| mods-para-minecraft blogspot com   |             |                |       |       |
 
 I don't know how to rate these sites. Help?
 ===========================================
